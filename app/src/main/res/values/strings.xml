@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="inicio">Inicio</string>
+    <string name="img_home_descrip">Logo</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="nombre1">Birdy</string>
+    <string name="nombre2">Peludo</string>
+    <string name="nombre3">Alf</string>
+    <string name="nombre4">Bambi</string>
+    <string name="nombre5">Bailey</string>
+    <string name="nombre6">Bobo</string>
+    <string name="nombre7">Dee-dee</string>
+    <string name="nombre8">Bigotes</string>
+    <string name="nombre9">Max</string>
+    <string name="nombre10">Mindy</string>
+    <string name="nombre11">Fishy</string>
+</resources>
