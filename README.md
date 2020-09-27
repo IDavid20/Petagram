@@ -1,4 +1,4 @@
-# Formulario
+# Petagram
 Semana 3 - Desarrollo de aplicaciones con Android - Coursera
 
 Mascotas, RecyclerView y ActionView
